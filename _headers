@@ -1,0 +1,4 @@
+/dashboard_data.json
+  Cache-Control: public, max-age=300
+/status.json
+  Cache-Control: public, max-age=300
